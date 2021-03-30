@@ -4,14 +4,14 @@
   border: 1px solid var(--dodger-blue);
 }
 .menu {
-  background-color: rgba(80,80,80,0.2);
+  background-color: rgba(0,0,0,0.5);
   height: 812px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 375px;
 }
-.menu .blog-C61RwL {
+.menu .about-C61RwL {
   background-color: transparent;
   height: auto;
   left: 155px;
@@ -19,9 +19,17 @@
   line-height: 34.8px;
   position: absolute;
   text-align: left;
-  top: 256px;
+  top: 175px;
   white-space: nowrap;
   width: auto;
+}
+.menu .bg-WTCLB3 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
 }
 .menu .contact-C61RwL {
   background-color: transparent;
@@ -31,17 +39,29 @@
   line-height: 34.8px;
   position: absolute;
   text-align: left;
-  top: 331px;
+  top: 325px;
   white-space: nowrap;
   width: auto;
 }
-.menu .group-3-WTCLB3 {
+.menu .exit-WTCLB3 {
   background-color: transparent;
   height: 19px;
   left: 11px;
   position: absolute;
   top: 11px;
   width: 18px;
+}
+.menu .home-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: 34.8px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
 }
 .menu .icnexitblack-C61RwL {
   background-color: transparent;
@@ -51,6 +71,14 @@
   top: 20px;
   width: 40px;
 }
+.menu .menubg-C61RwL {
+  background-color: var(--white);
+  height: 812px;
+  left: 115px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
 .menu .product-C61RwL {
   background-color: transparent;
   height: auto;
@@ -59,39 +87,11 @@
   line-height: 34.8px;
   position: absolute;
   text-align: left;
-  top: 181px;
+  top: 250px;
   white-space: nowrap;
   width: auto;
 }
-.menu .rectangle-15-WTCLB3 {
-  background-color: transparent;
-  height: 40px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 40px;
-}
-.menu .rectangle-34-C61RwL {
-  background-color: var(--white);
-  height: 812px;
-  left: 115px;
-  position: absolute;
-  top: 0px;
-  width: 260px;
-}
-.menu .team-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 155px;
-  letter-spacing: 0.00px;
-  line-height: 34.8px;
-  position: absolute;
-  text-align: left;
-  top: 106px;
-  white-space: nowrap;
-  width: auto;
-}
-.menu .vector-8-YtqLxd {
+.menu .vector-8-4tQMnE {
   background-color: transparent;
   height: 21px;
   left: -1px;
@@ -99,25 +99,39 @@
   top: -1px;
   width: 21px;
 }
-.menu .vector-9-YtqLxd {
+.menu .vector-9-4tQMnE {
   background-color: transparent;
   height: 21px;
   left: -1px;
   position: absolute;
   top: -1px;
   width: 21px;
-}
-.notosanscjkkr-bold-dodger-blue-24px {
-  color: var(--dodger-blue);
-  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 700;
 }
 .notosanscjkkr-light-black-14px {
   color: var(--black);
   font-family: 'Noto Sans CJK KR-Light', Helvetica;
   font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-eerie-black-12px {
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-eerie-black-16px {
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-white-10px {
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 10px;
   font-style: normal;
   font-weight: 300;
 }
@@ -128,8 +142,22 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-bold-black-24px {
-  color: var(--black);
+.roboto-bold-dodger-blue-28px {
+  color: var(--dodger-blue);
+  font-family: 'Roboto', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: 'Roboto', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-24px {
+  color: var(--white);
   font-family: 'Roboto', Helvetica;
   font-size: 24px;
   font-style: normal;
@@ -142,9 +170,20 @@
   font-style: normal;
   font-weight: 300;
 }
+.roboto-light-white-10px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+}
 :root {
+  --astronaut-blue: rgba(0,56,98,1.0);
+  --astronaut-blue-2: rgba(0,56,98,0.9);
   --black: rgba(0,0,0,1.0);
   --dodger-blue: rgba(31,149,255,1.0);
+  --eerie-black: rgba(26,26,26,1.0);
+  --fuscous-gray: rgba(80,80,80,1.0);
   --stack: rgba(139,139,139,1.0);
   --white: rgba(255,255,255,1.0);
   --zircon: rgba(247,252,255,1.0);

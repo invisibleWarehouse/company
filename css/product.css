@@ -1,0 +1,957 @@
+/* screen - product */
+
+.border-1px-dodger-blue {
+  border: 1px solid var(--dodger-blue);
+}
+.notosanscjkkr-light-black-14px {
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-eerie-black-12px {
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-eerie-black-16px {
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-light-white-10px {
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanscjkkr-medium-dodger-blue-12px {
+  color: var(--dodger-blue);
+  font-family: 'Noto Sans CJK KR-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+.product {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2800px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.product .banner-C61RwL {
+  align-items: flex-start;
+  background-color: var(--astronaut-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 100px;
+  justify-content: flex-end;
+  margin-top: 0px;
+  min-width: 375px;
+  padding: 32px 143px;
+  position: relative;
+  width: auto;
+}
+.product .bgreviewa-UBh8Vc {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.product .bgreviewb-MY4ChJ {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.product .bgreviewc-rD3q5q {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.product .btnchoco-EhxsBx {
+  align-items: center;
+  background-color: rgba(250,61,75,1.0);
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 46px;
+  justify-content: flex-end;
+  margin-top: 24px;
+  min-width: 114px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+.product .btnir-cdvZxq {
+  align-items: center;
+  align-self: center;
+  background-color: rgba(250,61,75,1.0);
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  min-width: 270px;
+  padding: 0 50px;
+  position: relative;
+  width: auto;
+}
+.product .copyright-2021-ed-i10934334193-iPe1yZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14.5px;
+  margin-top: 12px;
+  min-height: 15px;
+  min-width: 202px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.product .flex-row-iPe1yZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 40px;
+  justify-content: flex-start;
+  margin-top: 28px;
+  min-width: 250px;
+  position: relative;
+  width: auto;
+}
+.product .footer-C61RwL {
+  align-items: flex-start;
+  background-color: var(--fuscous-gray);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-height: 294px;
+  padding: 40px 16px;
+  position: relative;
+  width: 375px;
+}
+.product .header-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 80px;
+  justify-content: flex-start;
+  min-width: 375px;
+  padding: 0 16px;
+  position: relative;
+  width: auto;
+}
+.product .icnbrunch-y6qxgd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 40px;
+  margin-left: 12px;
+  position: relative;
+  width: 40px;
+}
+.product .icnfacebook-y6qxgd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 40px;
+  margin-left: 12px;
+  position: relative;
+  width: 40px;
+}
+.product .icngithub-y6qxgd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 40px;
+  margin-left: 14px;
+  position: relative;
+  width: 40px;
+}
+.product .icnhamburgerblack-IcPKRJ {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 40px;
+  justify-content: flex-start;
+  margin-left: 208px;
+  min-width: 40px;
+  padding: 0 7px;
+  position: relative;
+  width: auto;
+}
+.product .icninsta-y6qxgd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+.product .icnyoutube-y6qxgd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 40px;
+  margin-left: 12px;
+  position: relative;
+  width: 40px;
+}
+.product .lines-41g2eH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: center;
+  min-height: 16px;
+  position: relative;
+  width: 26px;
+}
+.product .logo-choco-red-EhxsBx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 40px;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 0.1px 0;
+  position: relative;
+  width: 120px;
+}
+.product .logo-invi-blue-IcPKRJ {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 32px;
+  justify-content: flex-start;
+  overflow: hidden;
+  position: relative;
+  width: 94px;
+}
+.product .logo-invi-white-iPe1yZ {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 32px;
+  justify-content: flex-start;
+  overflow: hidden;
+  position: relative;
+  width: 96px;
+}
+.product .point-01-XJFtqY {
+  background-color: transparent;
+  color: transparent;
+  flex-shrink: 1;
+  font-family: 'Roboto', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: 44px;
+  min-height: 84px;
+  min-width: 207px;
+  position: relative;
+  width: auto;
+}
+.product .point-02-nl3Sx0 {
+  background-color: transparent;
+  color: transparent;
+  flex-shrink: 1;
+  font-family: 'Roboto', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: 44px;
+  min-height: 84px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+.product .point-03-xYGnzr {
+  background-color: transparent;
+  color: transparent;
+  flex-shrink: 1;
+  font-family: 'Roboto', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: 44px;
+  min-height: 84px;
+  min-width: 291px;
+  position: relative;
+  width: auto;
+}
+.product .product-HhOyb4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 34.8px;
+  min-height: 35px;
+  min-width: 87px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.product .reviewa-cdvZxq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 140px;
+  margin-top: 26px;
+  position: relative;
+  width: 347px;
+}
+.product .reviewb-cdvZxq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 170px;
+  margin-top: 20px;
+  position: relative;
+  width: 347px;
+}
+.product .reviewc-cdvZxq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 140px;
+  margin-top: 20px;
+  position: relative;
+  width: 347px;
+}
+.product .span0-1axPkm {
+  color: rgba(250,61,75,1.0);
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+.product .span0-3Xm7wA {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -0.05px;
+}
+.product .span0-Phg8dX {
+  color: rgba(250,61,75,1.0);
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+.product .span0-THjVNt {
+  color: rgba(250,61,75,1.0);
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+.product .span1-1axPkm {
+  color: rgba(26,26,26,1.0);
+  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.23px;
+}
+.product .span1-3Xm7wA {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Noto Sans CJK KR-Light', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0.00px;
+}
+.product .span1-Phg8dX {
+  color: rgba(26,26,26,1.0);
+  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.23px;
+}
+.product .span1-THjVNt {
+  color: rgba(26,26,26,1.0);
+  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.23px;
+}
+.product .textlabel-MY4ChJ {
+  background-color: transparent;
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Regular', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: -0.80px;
+  line-height: 30.4px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: auto;
+}
+.product .textlabel-UBh8Vc {
+  background-color: transparent;
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Regular', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: -0.80px;
+  line-height: 30.4px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: auto;
+}
+.product .textlabel-b44w3T {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 1;
+  font-family: 'Noto Sans CJK KR-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.75px;
+  line-height: 21.8px;
+  min-height: 22px;
+  min-width: 168px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+.product .textlabel-rD3q5q {
+  background-color: transparent;
+  color: var(--eerie-black);
+  font-family: 'Noto Sans CJK KR-Regular', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 46px;
+  letter-spacing: -0.80px;
+  line-height: 30.4px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: auto;
+}
+.product .vector-1-TNTGOz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  position: relative;
+  width: 26px;
+}
+.product .vector-2-TNTGOz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 6px;
+  position: relative;
+  width: 26px;
+}
+.product .vector-2J0cc5 {
+  background-color: transparent;
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+.product .vector-3-TNTGOz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 6px;
+  position: relative;
+  width: 26px;
+}
+.product .vector-9kA42g {
+  background-color: transparent;
+  height: 32px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 32px;
+}
+.product .vector-CvcrGP {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+.product .vector-Dih7cI {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 16px;
+}
+.product .vector-E0SIS9 {
+  background-color: transparent;
+  height: 28px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+.product .vector-UoDu8F {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+.product .vector-V2HxXk {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+.product .vector-XEUm6U {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+.product .vector-Zu7dHP {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+.product .vector-ceuZoI {
+  background-color: transparent;
+  height: 5px;
+  left: 25px;
+  position: absolute;
+  top: 10px;
+  width: 5px;
+}
+.product .vector-jHvxE4 {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 32px;
+  width: 18px;
+}
+.product .vector-kcxTZQ {
+  background-color: transparent;
+  height: 28px;
+  left: 9px;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}
+.product .vector-qQtDys {
+  background-color: transparent;
+  height: 30px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 30px;
+}
+.product .x-EhxsBx {
+  background-color: transparent;
+  color: var(--eerie-black);
+  flex-shrink: 1;
+  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: -1.12px;
+  line-height: 44.8px;
+  margin-top: 12px;
+  min-height: 90px;
+  min-width: 249px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.product .x-UgIxV4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: -0.80px;
+  line-height: 32px;
+  margin-top: 20px;
+  min-height: 128px;
+  min-width: 346px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.product .x-XJFtqY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: -0.80px;
+  line-height: 32px;
+  margin-top: 16px;
+  min-height: 128px;
+  min-width: 284px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.product .x-a-UBh8Vc {
+  background-color: transparent;
+  height: auto;
+  left: 121px;
+  letter-spacing: -0.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+.product .x-b-MY4ChJ {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: -0.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  white-space: nowrap;
+  width: auto;
+}
+.product .x-c-rD3q5q {
+  background-color: transparent;
+  height: auto;
+  left: 131px;
+  letter-spacing: -0.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+.product .x-i1383863826-WRhCoB {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 1;
+  font-family: 'Noto Sans CJK KR-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.75px;
+  line-height: 21.8px;
+  min-height: 22px;
+  min-width: 84px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.product .x-xYGnzr {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: -0.80px;
+  line-height: 32px;
+  margin-top: 16px;
+  min-height: 160px;
+  min-width: 326px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.product .x01intro-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  min-height: 378px;
+  position: relative;
+  width: 344px;
+}
+.product .x02test-C61RwL {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 16px;
+  margin-top: 60px;
+  min-height: 228px;
+  position: relative;
+  width: 282px;
+}
+.product .x03tutoring-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: 14.0px;
+  margin-top: 60px;
+  min-height: 196px;
+  position: relative;
+  width: 329px;
+}
+.product .x04community-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: 19.0px;
+  margin-top: 60px;
+  min-height: 260px;
+  position: relative;
+  width: 324px;
+}
+.product .x05review-C61RwL {
+  align-items: flex-end;
+  background-color: rgba(245,245,245,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-height: 760px;
+  padding: 40px 12px;
+  position: relative;
+  width: 375px;
+}
+.product .x1-OV1aU5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 32px;
+  position: relative;
+  width: 95px;
+}
+.product .x1-jMRhjw {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-top: -1.07px;
+  position: relative;
+  width: 122px;
+}
+.product .x13-38-officiali-eio-i1093433323-iPe1yZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  line-height: 17.5px;
+  margin-top: 28px;
+  min-height: 36px;
+  min-width: 202px;
+  position: relative;
+  width: auto;
+}
+.product .x2-OCP1AO {
+  background-color: transparent;
+  background-image: url(../img/----1-6@2x.svg);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 32px;
+  margin-bottom: -0.0px;
+  position: relative;
+  width: 96px;
+}
+.product .x2-uFRiuc {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 32px;
+  justify-content: center;
+  margin-bottom: -0.0px;
+  min-width: 94px;
+  position: relative;
+  width: auto;
+}
+.product .x2-z5qWCK {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 40px;
+  justify-content: center;
+  min-width: 120px;
+  position: relative;
+  width: auto;
+}
+.product .x4-cdvZxq {
+  align-self: center;
+  background-color: transparent;
+  color: var(--eerie-black);
+  flex-shrink: 1;
+  font-family: 'Noto Sans CJK KR-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: -0.96px;
+  line-height: 40.8px;
+  margin-left: 3.0px;
+  min-height: 82px;
+  min-width: 270px;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+.product .x51-nl3Sx0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: -0.80px;
+  line-height: 32px;
+  margin-top: 16px;
+  min-height: 96px;
+  min-width: 331px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.roboto-bold-dodger-blue-28px {
+  color: var(--dodger-blue);
+  font-family: 'Roboto', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: 'Roboto', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-light-stack-12px {
+  color: var(--stack);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+.roboto-light-white-10px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+}
+.choco-video {
+  margin-top: 24px;
+}
+:root {
+  --astronaut-blue: rgba(0,56,98,1.0);
+  --astronaut-blue-2: rgba(0,56,98,0.9);
+  --black: rgba(0,0,0,1.0);
+  --dodger-blue: rgba(31,149,255,1.0);
+  --eerie-black: rgba(26,26,26,1.0);
+  --fuscous-gray: rgba(80,80,80,1.0);
+  --stack: rgba(139,139,139,1.0);
+  --white: rgba(255,255,255,1.0);
+  --zircon: rgba(247,252,255,1.0);
+}
