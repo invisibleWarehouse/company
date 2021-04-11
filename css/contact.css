@@ -9,7 +9,7 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 1440px;
+  height: 1230px;
   justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
@@ -64,8 +64,8 @@
   height: auto;
   line-height: 22.2px;
   margin-right: 19.0px;
-  margin-top: 28px;
-  min-height: 66px;
+  margin-top: 4px;
+  min-height: 40px;
   min-width: 324px;
   position: relative;
   width: auto;
@@ -480,10 +480,10 @@
   font-weight: 300;
 }
 .gmap-ssmd {
-  margin-top: 32px;
+  margin-top: 28px;
 }
-.gmap-dswu {
-  margin-top: 16px;
+.tally-contact {
+  margin-top: 24px;
 }
 :root {
   --astronaut-blue: rgba(0,56,98,1.0);
