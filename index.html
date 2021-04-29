@@ -87,8 +87,20 @@
             height: auto;
         }
 
+        @media (max-width: 375px) {
+        body {
+          font-size: 4.5vw;
+        }
+      }
 
-        @media screen and (min-width: 992px) {
+        @media (min-width:375px) and (max-width: 992px) {
+          body {
+            font-size: 2vw;
+          }
+
+        }
+
+        @media (min-width: 992px) {
         body {
           font-size: 1.5vw;
         }
@@ -98,21 +110,8 @@
             height: auto;
             margin: 0 0 9rem 0
         }
-}
-        @media screen and (max-width: 376px) {
-        body {
-          font-size: 4.5vw;
-        }
-        }
 
-        @media screen and (min-width: 376px) and (max-width: 992px) {
-          body {
-            font-size: 2vw;
-          }
-
-        }
-
-
+      }
 
     </style>
 </head>
@@ -134,6 +133,7 @@
       data-aos-offset="200"
       data-aos-delay="1000"
       style="font-weight:800;"
+      data-aos-once="true"
       >인비저블</p>
 
       <p
@@ -141,6 +141,7 @@
       data-aos-duration='500'
       data-aos-offset="200"
       data-aos-delay="2800"
+      data-aos-once="true"
       >+82 10 6750 2578</p>
 
     <p
@@ -148,12 +149,14 @@
     data-aos-duration='500'
     data-aos-offset="200"
     data-aos-delay="2850"
+    data-aos-once="true"
     >official@invisible.global</p>
     
     <p
     data-aos="fade-up"
     data-aos-duration='500'
     data-aos-delay="2900"
+    data-aos-once="true"
     >서울시 성동구 성수동2가 뚝섬로13길 38, 4층</p>
 
     <br/>
@@ -169,28 +172,36 @@
       </li>
       <li data-aos="fade-up"
       data-aos-duration='500'
-      data-aos-delay="2950" class="footer sns fb">
+      data-aos-delay="2950"
+      data-aos-once="true"
+      class="footer sns fb">
         <a href="#" onclick="alert('준비중입니다.')">
           <img src="img/Group 2.png" alt="footer facebook">
         </a>
       </li>
       <li data-aos="fade-up"
       data-aos-duration='500'
-      data-aos-delay="2950"  class="footer sns br">
+      data-aos-delay="2950"
+      data-aos-once="true"
+      class="footer sns br">
         <a href="https://brunch.co.kr/@invisiblekr">
           <img src="img/Group 3.png" alt="footer brunch">
         </a>
       </li>
       <li data-aos="fade-up"
       data-aos-duration='500'
-      data-aos-delay="2950"  class="footer sns yt">
+      data-aos-delay="2950"
+      data-aos-once="true"
+      class="footer sns yt">
         <a href="#" onclick="alert('준비중입니다.')">
           <img src="img/Group 4.png" alt="footer youtube">
         </a>
       </li>
       <li data-aos="fade-up"
       data-aos-duration='500'
-      data-aos-delay="2950"  class="footer sns gh">
+      data-aos-delay="2950"
+      data-aos-once="true"
+      class="footer sns gh">
         <a href="https://github.com/invisibleinseoul">
           <img src="img/Group 5.png" alt="footer github">
         </a>
